@@ -2,11 +2,11 @@
 
 🌐 NexTech: Innovating the Future
 
-# Project Overview:
+## Project Overview:
 
 NexTech is a sleek, responsive website designed using HTML5 and CSS3, focused on showcasing cutting-edge technology solutions and digital innovation. This project demonstrates modern web design principles including clean layout structures, responsive design, and user-friendly navigation.
 
-# Key Features:
+### Key Features:
 
 🚀 Fully Responsive Design – Optimized for desktop, tablet, and mobile views.
 
@@ -16,7 +16,7 @@ NexTech is a sleek, responsive website designed using HTML5 and CSS3, focused on
 
 🌈 Custom Styling with CSS3 – Gradient backgrounds, transitions, and custom fonts for a unique brand feel.
 
-# Sections Included:
+### Sections Included:
 
 Landing Page: Eye-catching hero section with a bold call to action.
 
@@ -27,3 +27,6 @@ Services: Highlights of innovative tech solutions offered.
 Portfolio/Projects: Showcase of previous work or concept projects.
 
 Contact Us: Integrated contact form and social media links.
+
+### Live Demo: 
+https://gurvir0024.github.io/NexTech_Frontend/
